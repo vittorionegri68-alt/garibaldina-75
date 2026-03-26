@@ -1,0 +1,111 @@
+{
+  "nav": {
+    "appartamento": "The Apartment",
+    "esperienza": "Cesena",
+    "comeFunziona": "How to Book",
+    "recensioni": "Reviews",
+    "posizione": "Location",
+    "host": "Host",
+    "prenota": "Book on Airbnb"
+  },
+  "hero": {
+    "badge": "Cesena City Centre",
+    "titolo": "Bright and welcoming in the heart of Cesena",
+    "sottotitolo": "A modern, thoughtfully designed apartment steps away from shops, restaurants and historic landmarks. Fast WiFi, fully equipped kitchen, self check-in.",
+    "ctaPrimario": "Book on Airbnb",
+    "ctaSecondario": "Discover more",
+    "stats": {
+      "ospiti": "Guests",
+      "camere": "Bedroom",
+      "bagni": "Bathroom",
+      "rating": "Rating"
+    }
+  },
+  "appartamento": {
+    "titolo": "Your Space",
+    "sottotitolo": "Every detail designed for your comfort",
+    "galleriaLabel": "Photo gallery",
+    "dotazioni": "Key amenities",
+    "amenities": [
+      { "icona": "wifi", "testo": "High-speed WiFi" },
+      { "icona": "kitchen", "testo": "Fully equipped kitchen" },
+      { "icona": "washer", "testo": "Washing machine" },
+      { "icona": "ac", "testo": "Air conditioning" },
+      { "icona": "heating", "testo": "Central heating" },
+      { "icona": "checkin", "testo": "Self check-in with smart lock" },
+      { "icona": "tv", "testo": "Smart TV" },
+      { "icona": "elevator", "testo": "Elevator" }
+    ]
+  },
+  "esperienza": {
+    "titolo": "Cesena, waiting to be explored",
+    "sottotitolo": "From the door of Garibaldina 75, the city is at your fingertips",
+    "cards": [
+      {
+        "titolo": "History and Culture",
+        "testo": "The Malatestiana Fortress dominates the skyline. Museums, churches and the medieval historic centre are all walkable from the apartment."
+      },
+      {
+        "titolo": "Romagna Flavours",
+        "testo": "Piadina, cappelletti, wines from the Cesena hills. Restaurants and trattorias a short walk away for an authentic Romagna dining experience."
+      },
+      {
+        "titolo": "Perfect Base",
+        "testo": "Reach the Cesenatico coast in 30 minutes. Rimini in 40. San Marino in 35. A perfect starting point to explore all of Romagna."
+      }
+    ]
+  },
+  "comeFunziona": {
+    "titolo": "Booking is simple",
+    "sottotitolo": "Four steps and you are in Cesena",
+    "steps": [
+      { "numero": "01", "titolo": "Check availability", "testo": "Browse available dates on Airbnb and choose when you want to stay." },
+      { "numero": "02", "titolo": "Book instantly", "testo": "Book in a few clicks with secure payment through the Airbnb platform." },
+      { "numero": "03", "titolo": "Receive your code", "testo": "Before arrival you will receive full instructions and the smart lock code by message." },
+      { "numero": "04", "titolo": "Enjoy your stay", "testo": "Let yourself in independently, at any time. The apartment will be ready and waiting." }
+    ]
+  },
+  "recensioni": {
+    "titolo": "What guests say",
+    "sottotitolo": "Average rating",
+    "di": "out of",
+    "basataSu": "reviews on Airbnb"
+  },
+  "posizione": {
+    "titolo": "Where We Are",
+    "sottotitolo": "Corso C.B. Cavour 75, Cesena",
+    "descrizione": "Garibaldina 75 sits in the heart of Cesena historic centre, on one of the city main avenues. Everything is walkable: the Malatestiana Fortress, the market, the best restaurants and city centre shops.",
+    "distanze": [
+      { "luogo": "Malatestiana Fortress", "tempo": "8 min walk" },
+      { "luogo": "Cesena Train Station", "tempo": "10 min walk" },
+      { "luogo": "Cesenatico (beach)", "tempo": "30 min by car" },
+      { "luogo": "San Marino", "tempo": "35 min by car" },
+      { "luogo": "Rimini", "tempo": "40 min by car" },
+      { "luogo": "Bologna Airport", "tempo": "60 min by car" }
+    ],
+    "apriMappa": "Open in Google Maps"
+  },
+  "host": {
+    "titolo": "Your Host",
+    "nome": "Lucea Collection",
+    "bio": "We are Lucea Collection, a team passionate about hospitality based in Romagna. We take care of every apartment down to the last detail to ensure an authentic and comfortable stay. We are always available for tips, local recommendations and any needs during your visit.",
+    "badge": "Fast response",
+    "stats": [
+      { "valore": "5.0", "etichetta": "Average rating" },
+      { "valore": "100%", "etichetta": "Response rate" },
+      { "valore": "< 1h", "etichetta": "Response time" }
+    ]
+  },
+  "finalCta": {
+    "titolo": "Ready for your stay in Cesena?",
+    "sottotitolo": "Check availability and book directly on Airbnb.",
+    "cta": "Book now on Airbnb"
+  },
+  "footer": {
+    "copyright": "Garibaldina 75. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "termini": "Terms of Use",
+    "directory": "RAB Directory",
+    "contatti": "Contact"
+  }
+}
