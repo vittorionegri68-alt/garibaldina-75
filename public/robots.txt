@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://Garibaldina-75-en.vercel.app/sitemap.xml
