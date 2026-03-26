@@ -34,7 +34,7 @@
       { "icona": "heating", "testo": "Central heating" },
       { "icona": "checkin", "testo": "Self check-in" },
       { "icona": "tv", "testo": "Smart TV" },
-      { "icona": "elevator", "testo": "Ground-floor apartment. /nAccessible for wheelchair users" }
+      { "icona": "elevator", "testo": "Ground-floor apartment. Accessible for wheelchair users" }
     ]
   },
   "esperienza": {
