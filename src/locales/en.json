@@ -11,7 +11,7 @@
   "hero": {
     "badge": "Cesena City Centre",
     "titolo": "Bright and welcoming in the heart of Cesena",
-    "sottotitolo": "A modern, thoughtfully designed apartment steps away from shops, restaurants and historic landmarks. Fast WiFi, fully equipped kitchen, self check-in.",
+    "sottotitolo": "A modern, thoughtfully designed apartment steps away from shops, restaurants and historic landmarks. WiFi, fully equipped kitchen, self check-in.",
     "ctaPrimario": "Book on Airbnb",
     "ctaSecondario": "Discover more",
     "stats": {
@@ -34,7 +34,7 @@
       { "icona": "heating", "testo": "Central heating" },
       { "icona": "checkin", "testo": "Self check-in" },
       { "icona": "tv", "testo": "Smart TV" },
-      { "icona": "elevator", "testo": "Ground-floor apartment accessible for wheelchair users" }
+      { "icona": "elevator", "testo": "Ground-floor apartment. /nAccessible for wheelchair users" }
     ]
   },
   "esperienza": {
