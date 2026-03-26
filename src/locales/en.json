@@ -61,7 +61,7 @@
     "steps": [
       { "numero": "01", "titolo": "Check availability", "testo": "Browse available dates on Airbnb and choose when you want to stay." },
       { "numero": "02", "titolo": "Book instantly", "testo": "Book in a few clicks with secure payment through the Airbnb platform." },
-      { "numero": "03", "titolo": "Receive your code", "testo": "Before arrival you will receive full instructions and the smart lock code by message." },
+      { "numero": "03", "titolo": "Receive your code", "testo": "Before arrival you will receive full instructions by message." },
       { "numero": "04", "titolo": "Enjoy your stay", "testo": "Let yourself in independently, at any time. The apartment will be ready and waiting." }
     ]
   },
