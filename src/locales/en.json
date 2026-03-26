@@ -27,14 +27,14 @@
     "galleriaLabel": "Photo gallery",
     "dotazioni": "Key amenities",
     "amenities": [
-      { "icona": "wifi", "testo": "High-speed WiFi" },
+      { "icona": "wifi", "testo": "WiFi" },
       { "icona": "kitchen", "testo": "Fully equipped kitchen" },
       { "icona": "washer", "testo": "Washing machine" },
       { "icona": "ac", "testo": "Air conditioning" },
       { "icona": "heating", "testo": "Central heating" },
-      { "icona": "checkin", "testo": "Self check-in with smart lock" },
+      { "icona": "checkin", "testo": "Self check-in" },
       { "icona": "tv", "testo": "Smart TV" },
-      { "icona": "elevator", "testo": "Elevator" }
+      { "icona": "elevator", "testo": "Ground-floor apartment accessible for wheelchair users" }
     ]
   },
   "esperienza": {
