@@ -2,7 +2,7 @@ import { useEffect, useRef } from 'react';
 import { contactInfo } from '../config/contact_info';
 import t from '../locales/en.json';
 
-const LOCATION_IMG = 'https://www.google.com/maps/place/Garibaldina+75/@44.1363158,12.2477993,18z/data=!4m6!3m5!1s0x132ca53c2fdfc80f:0x625b7e4e574ee934!8m2!3d44.1362966!4d12.2492731!16s%2Fg%2F11ypgbp_26?entry=ttu&g_ep=EgoyMDI2MDMyMy4xIKXMDSoASAFQAw%3D%3D';
+const LOCATION_IMG = '/garibaldina-75.png';
 const MAPS_URL = 'https://www.google.com/maps/place/C.so+Giuseppe+Garibaldi,+75,+47521+Cesena+FC';
 
 export default function Location() {
