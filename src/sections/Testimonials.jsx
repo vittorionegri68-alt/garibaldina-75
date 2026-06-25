@@ -14,6 +14,12 @@ const REVIEWS = [
     provenienza: 'Cesena, Italy',
     stelle: 5,
   },
+  {
+    testo: `I went to Cesena on a recommendation from a friend. And I am glad I did. One of the cleanest, most peaceful, relaxed "mid-size Italian cities" I have ever been in (and I've been in many). Has lots to see within the city and very nearby (Rimini, for example). Annadaltri's place was very comfortable. It had everything I needed, and I loved the location for getting around. The ground-level was initially a bit of a worry -- pedestrians walking by (but they can't see in). My concern was "sleep" but the bedroom is well insulated from sound and light (make sure you pull the shades down outside the window). There is a bar across the street, and it is quite lively ... people using the outside seating in summer .... but my sleep was not interrupted with the bedroom door shut. I am a very light sleeper! The air-conditioning works well and the bathroom is spacious and clean and the wifi is fast. Perfect place for one or two. Highly recommended. The apartment and the town of Cesena.`,
+    nome: 'Bjorn',
+    provenienza: '',
+    stelle: 5,
+  },
 ];
 
 function Stars({ n }) {
@@ -66,7 +72,7 @@ export default function Testimonials() {
             <div style={s.ratingNum}>5.0</div>
             <div style={s.ratingInfo}>
               <Stars n={5} />
-              <span style={s.basedOn}>{t.recensioni.sottotitolo} 5.0 {t.recensioni.di} 5 &middot; 2 {t.recensioni.basataSu}</span>
+              <span style={s.basedOn}>{t.recensioni.sottotitolo} 5.0 {t.recensioni.di} 5 &middot; 3 {t.recensioni.basataSu}</span>
             </div>
           </div>
         </div>
