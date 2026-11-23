@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://Garibaldina-75-en.vercel.app/sitemap.xml
+Sitemap: https://garibaldina-75.romagna-short-stay.com/sitemap.xml
